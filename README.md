@@ -1,24 +1,24 @@
-# README
+# Rails Starter App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## A Rails 5 app using MongoDB and Semantic-UI
 
-Things you may want to cover:
+### Starter app comes preconfigured to run out of the box. Simply clone into your local repository, bundle, then find & replace ‘appname’  with the name of your application. You’re good to go!
 
-* Ruby version
+**Starter App is configured as…**
 
-* System dependencies
+*Rails 5.01
+*Ruby 2.3.1
+*Mongoid 6
+*Devise for authentication
+*Semantic-UI for styling
+*Better errors for development
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Gems
+## Production
+*gem 'semantic-ui-sass'
+*gem 'devise'
+*gem 'mongoid', '~> 6.0.0'
+## Development
+*gem 'binding_of_caller'
+*gem 'better_errors'
