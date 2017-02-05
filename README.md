@@ -19,6 +19,8 @@
 * gem 'semantic-ui-sass'
 * gem 'devise'
 * gem 'mongoid', '~> 6.0.0'
+
 ## Development
+
 * gem 'binding_of_caller'
 * gem 'better_errors'
