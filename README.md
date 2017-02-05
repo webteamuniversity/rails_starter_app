@@ -6,19 +6,19 @@
 
 **Starter App is configured as…**
 
-*Rails 5.01
-*Ruby 2.3.1
-*Mongoid 6
-*Devise for authentication
-*Semantic-UI for styling
-*Better errors for development
+* Rails 5.01
+* Ruby 2.3.1
+* Mongoid 6
+* Devise for authentication
+* Semantic-UI for styling
+* Better errors for development
 
 
 # Gems
 ## Production
-*gem 'semantic-ui-sass'
-*gem 'devise'
-*gem 'mongoid', '~> 6.0.0'
+* gem 'semantic-ui-sass'
+* gem 'devise'
+* gem 'mongoid', '~> 6.0.0'
 ## Development
-*gem 'binding_of_caller'
-*gem 'better_errors'
+* gem 'binding_of_caller'
+* gem 'better_errors'
